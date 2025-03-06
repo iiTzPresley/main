@@ -31,4 +31,4 @@ async def say(ctx, *, message):
     await ctx.send(message)
 
 # Run the bot
-bot.run('MTMyODIwMjExOTA3Mjg0MTc0OA.GgrHWr.Ct7uFzEcqDnk4stSVZ-bhHlqxf1Y99CFty7DcQ')  # Replace 'token_here' with your actual bot token
+bot.run('MTMyODIwMjExOTA3Mjg0MTc0OA.G_b73_.ZP7I0v43iH7CAEOhTsckBMdpFxz5cpM5KVNq48')  # Replace 'token_here' with your actual bot token
